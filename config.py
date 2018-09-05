@@ -1,0 +1,4 @@
+owner = <OWNERID>
+TOKEN = <TOKEN>
+PREFIX = "!"
+VERSION = '0.2'
